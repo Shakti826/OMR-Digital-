@@ -1,0 +1,8 @@
+{
+  "name": "OMR Digital",
+  "description": "A lightweight digital OMR sheet generator with interactive rows, dynamic question counts, and easy copy-to-clipboard functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
